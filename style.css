@@ -1,0 +1,44 @@
+.fail{
+    background-color: red;
+}
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    margin: 2.5rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.red{
+    background-color: #ED2939;
+}
+
+.yellow{
+    background-color: #FFD700;
+}
+
+.green{
+    background-color: #00873E;
+}
+
+.purple{
+    background-color: #1560bd;
+}
+
+.flash{
+    background-color: black;
+}
+
+.userflash{
+    background-color: white;
+}
